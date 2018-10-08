@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rakeshchintareddy/puppeteer-demo#readme",
   "dependencies": {
+    "mongoose": "^5.3.1",
     "puppeteer": "^1.9.0"
   }
 }
